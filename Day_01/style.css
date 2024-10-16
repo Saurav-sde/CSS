@@ -1,8 +1,25 @@
+
+/*  Element selector */
 h1{
-    color: aquamarine;
+    color: white;
     background-color: black;
 }
 ul{
     color: blue;
-    background-color: brown;
+    background-color: lightblue;
+}
+
+/* Class Selector */
+.first{
+    background-color: blue;
+    color: aliceblue;
+}
+
+.second{
+    background-color: pink;
+}
+
+/* ID selector (#unique) */
+#third{
+    background-color: skyblue;
 }
