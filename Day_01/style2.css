@@ -1,0 +1,28 @@
+
+/* Universal selector */
+/* *{
+    background-color: aqua;
+} */
+
+
+/* Grouping Selectors */
+/* h1,h2,p{
+    background-color: aquamarine;
+} */
+
+
+/* Attribute Selector */
+h2[draggable="true"]
+{
+    background-color: burlywood;
+}
+
+/* Descendent Selector */
+section p{
+    background-color: blanchedalmond;
+}
+
+/* child selector */
+section>p{
+    background-color: aqua;
+}
