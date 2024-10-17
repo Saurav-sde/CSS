@@ -1,0 +1,31 @@
+/*  we can't select like this */
+p > div{
+    background-color: aqua;
+}
+
+/* By writing color name */
+/* h1{
+    color: blue;
+} */
+
+/* h3{
+    color: palevioletred;
+} */
+
+/* By Using RGB(red,green,blue) */
+h1{
+    color: rgb(26, 228, 255);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    font-size: 4em;
+    /* background-color: darkblue; */
+}
+
+/* BY USing Hexadecimal Value */
+h3{
+    color: #a13818;
+}
+
+/* By Using HUE(hue,saturation,lightness)*/
+p{
+    color: hsl(123, 30%, 60%);
+}
