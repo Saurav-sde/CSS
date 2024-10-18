@@ -1,0 +1,15 @@
+h1{
+    font-size: 5vw;
+    font-weight: 900;
+    font-style: OBLIQUE;
+    text-transform:uppercase;
+}
+
+/* % of vw */
+/* % of vh */
+
+P{
+    /* line-height: 50px; */
+    /* letter-spacing: 2px; */
+    word-spacing: 5px;
+}
