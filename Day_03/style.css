@@ -1,0 +1,63 @@
+/* h1{
+    background-color: darkcyan;
+}
+
+#first_id{
+    background-color: pink;
+}
+
+.first_class{
+    background-color: aqua;
+} */
+
+
+/* jo baad mei aayega wahi wala apply hoga
+h1{
+    background-color: greenyellow;
+    font-size: 20px;
+}
+h1{
+    background-color:grey ;
+} */
+
+
+
+
+/* Specificity */
+/* id > attribute > class > child&descendent > element & group element */
+/* 1 */
+/* #first_id{
+    background-color: pink;
+} */
+ /* 3 */
+/* .first_class{
+    background-color: blueviolet;
+} */
+/* 6 */
+/* h1{
+    background-color: green;
+} */
+/* 2 */
+/* h1[draggable = "true"] {
+    background-color: coral;
+} */
+/* 5 */
+/* body h1{
+    background-color: black;
+} */
+/* 4 */
+/* body > h1{
+    background-color: grey;
+} */
+
+
+/* On basis OF Type */
+/* INLINE > INTERNAL > EXTERNAL */
+
+/* inheritance */
+body{
+    background-color: aqua;
+}
+ul{
+    background-color: green;
+}
