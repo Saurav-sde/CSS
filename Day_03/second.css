@@ -1,0 +1,19 @@
+h1{
+    /* font-family: "Roboto", sans-serif; */
+    font-stretch:ultra-condensed;
+}
+p{
+    /* font-stretch: expanded; */
+   
+}
+
+/* 
+HOW TO USE GOOGLE FONTS
+1. search google font on your search engine
+2. select the font which you want
+3. then click on get font
+4. then click on get embeded code
+5. copy tha path and paste inside head tag
+6.now if we we want to use that font family
+    then select that font-family property and paste where you want to use
+*/
