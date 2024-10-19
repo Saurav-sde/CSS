@@ -1,0 +1,39 @@
+h2{
+    background-color: aqua;
+    width: 300px;
+    height: 200px;
+    /* border-width: 5px;
+    border-style: solid;
+    border-color: brown; */
+    border-radius: 15px;
+    /* shortcut to apply border */
+    border: 5px brown solid;
+    padding: 10px;
+    padding: 10px 20px;
+    padding: 10px 20px 30px;
+    padding: 10px 20px 30px 40px;
+
+}
+
+h4{
+    background-color: plum;
+    /* border-left-style: solid;
+    border-left-width: 10px;
+    border-left-color: blue;
+    } */
+    border-width: 10px 20px ;
+    border-style: solid;
+    border-color: green;
+}
+
+ul{
+    background-color: pink
+}
+
+p{
+    background-color: orange;
+    border-width: 3px;
+    border-color: black;
+    border-style: solid;
+    padding: 10px;
+}
