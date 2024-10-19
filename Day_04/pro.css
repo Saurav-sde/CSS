@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+.card{
+    width: 30vw;
+    height: 10vw;
+    background-color: aqua;
+    border: 5px green solid;
+    padding: 10px;
+    margin: 20px 20px 20px 35vw;
+}
+
+.card:hover{
+    transform: scale(1.2);
+    background-color: pink;
+}    
+
+.card h2{
+    color: green;
+    text-align: center;
+}
+
+.card p{
+    text-align: center;
+}
+
+.card h3{
+    text-align: center;
+}
