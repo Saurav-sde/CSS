@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    width: 60vh;
+    height: 60vh;
+    background-color: red;
+    border-radius: 50%;
+    margin:auto;
+    margin-top: 20vh;
+}
