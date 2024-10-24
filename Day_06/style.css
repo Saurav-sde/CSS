@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background-color:   antiquewhite;
+    margin-left: 200px;
+    margin-top: 150px;
+    position: relative;
+}
+
+.box {
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
+
+.box1 {
+    background-color: orangered;
+}
+.box2 {
+    background-color: blue;
+    /* position: relative;
+    top: 30px;
+    left: 20px; */
+    position: absolute;
+    top: 20px;
+    left: 10px;
+}
+.box3 {
+    background-color: greenyellow;
+}
+.box4 {
+    background-color: orange;
+}
